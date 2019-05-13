@@ -8,5 +8,217 @@
   }
 
   html,body{
-   font-family: 'Open Sans', sans-serif;
+   font-family: 'Roboto','Open Sans', sans-serif;
+  }
+  #wd-brand{
+   width: auto;
+   height: 64px;
+   box-sizing: border-box;
+   display: inline-block;
+   padding: 13px 5px;
+   float: left;
+   margin-right: 10px;
+  }
+  .wd-rounded{
+   border-radius: 20px!important;
+  }
+  .wd-input{
+   width: 100%!important;
+   height: 40px!important;
+   box-sizing: border-box!important;
+   border: 0.5px #85b490 solid!important;
+   border-radius: 20px!important;
+   background-color: #F6F8FA!important;
+   margin: 0px!important;
+   padding: 0 15px!important;
+   margin-bottom: 13px!important;
+   transition: background-color 0.5s ease-in;
+   -webkit-transition: background-color 0.3s ease-in;
+  }
+  .wd-input:focus{
+   background-color: white!important;
+  }
+  .wd-round-box{
+   width: fit-content;
+   height: auto;
+   display: inline-block;
+   margin: 0 8px;
+   box-sizing: border-box;
+   padding: 12px 15px;
+   border-radius: 20px;
+   border: 0.5px  solid #e0e0e0;
+  }
+  .wd-round-box.topic-box{
+   height: 80px;
+  }
+  .wd-round-box:first-child{
+   margin-left: 0px;
+  }
+  .wd-round-box.topic-box:hover{
+   cursor: pointer;
+  }
+  .wd-round-box.topic-box h5{
+   margin: 0px!important;
+   line-height: 2;
+  }
+  .text-link{
+      text-decoration: underline;
+      text-transform: capitalize;
+  }
+
+  /* -- lab preview design for responsive --*/
+  .lab-section{
+      width: 100%;
+      box-sizing: border-box;
+      padding-right: 30px;
+      max-height: 350px;
+      height: 350px;
+      overflow-y: auto;
+      overflow-x: hidden;
+  }
+  .lab-container{
+      margin: 24px 0;
+      width: fit-content;
+      height: max-content;
+  }
+  .lab-title{
+      font-size: 21px;
+      margin: 0px !important;
+  }
+  .lab-status{
+      font-size: 11px;
+  }
+  .lab-status.day-status{
+      margin-left: 20px;
+  }
+  .lab-box{
+      width: fit-content;
+      box-sizing: border-box;
+      margin-left: 20px;
+      border-left: 1.5px #9e9e9e dashed;
+      border-bottom:1.5px #9e9e9e dashed;
+      padding: 6px 0 2px 12px;
+  }
+  .lab-box a{
+      text-decoration: underline;
+  }
+
+  @media only screen and (min-width: 1080px) {
+     html,body{
+      background-color: #F6F8FA;
+      width: 100%;
+      max-width: 100%;
+     }
+
+     #wd-brand{
+      width: auto;
+      height: 64px;
+      box-sizing: border-box;
+      display: inline-block;
+      padding: 13px 5px;
+      float: left;
+      margin-right: 10px;
+     }
+
+     #wd-search-box{
+      width: 30%;
+      display: inline-block;
+      box-sizing: border-box;
+      height: 64px;
+      box-sizing: border-box;
+      margin: 0 20px;
+     }
+     #wd-search-box>form{
+      width: 100%;
+      height: 100%;
+     }
+
+     #wd-toolbox{
+      width: auto;
+      height: 64px;
+      display: inline-block;
+      /*background-color: black;*/
+     }
+     #wd-toolbox ul li{
+      margin: 0 15px !important;
+
+     }
+     #wd-toolbox ul li a{
+      font-size: 35px;
+      padding: 0px !important;
+      color: #84b38f;
+     }
+     #wd-toolbox ul li a i{
+      height: 64px;
+      border-bottom-color: transparent;
+      transition: border-bottom-color 0.3s ease-in;
+      -webkit-transition: border-bottom-color 0.3s ease-in;
+     }
+     #wd-toolbox ul li a i:hover{
+      border-bottom: 3px #84b38f solid;
+      /*border-bottom-color: #85b490;*/
+      font-weight: lighter;
+     }
+
+     #wd-toolbox ul li a i.material-icons{
+      font-size: 38px;
+     }
+
+     #wd-user-box{
+      margin-left: 60px;
+      box-sizing: border-box;
+      height: 64px;
+     }
+     #wd-user-box a.btn-floating{
+      margin-bottom: 12px;
+     }
+     .section .label-text{
+         display: inline-block;
+         color: #828282;
+         font-weight: 500;
+     }
+     .topic-wrapper{
+         overflow-x: scroll;
+         height: max-content;
+         box-sizing: border-box;
+         overflow-y: hidden;
+         width: 100%;
+         padding: 0 0 6px 0;
+     }
+     .topic-container{
+         width: max-content;
+     }
+
+     .articel-content img{
+         width: 100px;
+         height: 100px;
+         border-radius: 50%;
+     }
+     .articel-content h5{
+         margin-top: 0px!important;
+     }
+
+      /* width */
+      ::-webkit-scrollbar {
+          width: 10px;
+          height: 4px;
+      }
+
+      /* Track */
+      ::-webkit-scrollbar-track {
+          background: #f1f1f1;
+      }
+
+      /* Handle */
+      ::-webkit-scrollbar-thumb {
+          background: #cfd8dc;
+      }
+
+      /* Handle on hover */
+      ::-webkit-scrollbar-thumb:hover {
+          background: #555;
+      }
+
+
+
   }

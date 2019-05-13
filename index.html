@@ -16,8 +16,13 @@
 
   <!-- inject css start -->
 
-      <!-- lato cdn fonts -->
+      <!-- lato cdn fonts and icon -->
       <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <script src="https://cdn.rawgit.com/icons8/titanic/master/dist/js/titanic.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/4.5.9/bodymovin.min.js"></script>
+
       <!-- basic style -->
       <link rel="stylesheet" href="css/style.css">
       <!-- materialize -->
@@ -29,21 +34,241 @@
 
   <!-- inject css end -->
 
+  <script>
+      var titanic = new Titanic({
+          hover: true, // auto animated on hover (default true)
+          click: true  // auto animated on click/tap (default false)
+      });
+  </script>
+
   </head>
 
   <body>
 
-       <div class="container">
-           <h2>
-               Hai Wikidevia
-           </h2>
-       </div>
+      <nav class="white ">
+          <div class="container">
+
+              <div class="nav-wrapper">
+                  <div id="wd-brand">
+                      <img src="pics/wikidevia.png" alt="" width="120" height="40">
+                  </div>
+                  <div id="wd-search-box">
+                      <form action="#">
+                          <input type="search" class="wd-input">
+                      </form>
+                  </div>
+
+                  <div id="wd-user-box" class="right ">
+                      <a class='dropdown-trigger btn' href='#' data-target='dropdown1'>Drop Me!</a>
+
+                      <!-- Dropdown Structure -->
+                      <ul id='dropdown1' class='dropdown-content'>
+                          <li><a href="#!">one to tri for</a></li>
+                          <li><a href="#!">two tri fo faiv</a></li>
+                          <li class="divider" tabindex="-1"></li>
+                          <li><a href="#!">three</a></li>
+                          <li><a href="#!"><i class="material-icons">view_module</i>four</a></li>
+                          <li><a href="#!"><i class="material-icons">cloud</i>five</a></li>
+                      </ul>
+                  </div>
+                  <div id="wd-toolbox" class="right">
+                      <ul  class="hide-on-med-and-down ">
+                          <li>
+                              <a href="sass.html" class="tooltipped" data-position="bottom" data-tooltip="utama">
+                                  <i class="material-icons">home</i>
+                              </a>
+                          </li>
+                          <li>
+                              <a href="sass.html" class="tooltipped" data-position="bottom" data-tooltip="utama">
+                                  <i class="material-icons">public</i>
+                              </a>
+                          </li>
+                          <li>
+                              <a href="sass.html" class="tooltipped" data-position="bottom" data-tooltip="utama">
+                                  <i class="material-icons">email</i>
+                              </a>
+                          </li>
+                          <li>
+                              <a href="sass.html" class="tooltipped" data-position="bottom" data-tooltip="utama">
+                                  <i class="material-icons">notifications_none</i>
+                              </a>
+                          </li>
+
+                      </ul>
+                  </div>
+
+              </div>
+
+          </div>
+      </nav>
+
+      <div class="row">
+
+          <div class="container">
+              <!-- top section -->
+              <div class="section">
+                  <h6 class="label-text">Topik Populer</h6>
+                  <h6 class="right" class="label-text">
+                      <a href="" class="text-link">jelajahi</a>
+                  </h6>
+              </div>
+              <div class="section">
+                  <div class="topic-wrapper">
+                      <div class="topic-container">
+                          <div class="white wd-round-box topic-box">
+                              <h5>Politik</h5>
+                          </div>
+                          <div class="white wd-round-box topic-box">
+                              <h5>Sosial Hukum</h5>
+                          </div>
+                          <div class="white wd-round-box topic-box">
+                              <h5>Politik</h5>
+                          </div>
+                          <div class="white wd-round-box topic-box">
+                              <h5>Sosial Hukum</h5>
+                          </div>
+                          <div class="white wd-round-box topic-box">
+                              <h5>Politik</h5>
+                          </div>
+                          <div class="white wd-round-box topic-box">
+                              <h5>Sosial Hukum</h5>
+                          </div>
+
+                      </div>
+                  </div>
+              </div>
+              <!-- end top section-->
+
+              <!-- main section -->
+                  <div class="col s12 m8">
+
+
+                      <div class="section">
+                          <h6 class="label-text">Artikel</h6>
+                      </div>
+
+                      <div class="section" style="padding-top: 0px">
+
+                          <div class="section">
+                              <div class="white wd-round-box">
+                                  <div class="card-content articel-content">
+                                      <div class="col s3">
+                                          <img src="pics/bear.jpg_large" alt="articel post" >
+                                      </div>
+                                      <div class="col s12 m9">
+                                          <h5><a href="">Judul Artikel</a></h5>
+                                          <p>
+                                              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad alias doloribus fugiat ipsum iste iure nobis quae soluta.
+                                          </p>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+                          <div class="section">
+                              <div class="white wd-round-box">
+                                  <div class="card-content articel-content">
+                                      <div class="col s3">
+                                          <img src="pics/bear.jpg_large" alt="articel post" >
+                                      </div>
+                                      <div class="col s12 m9">
+                                          <h5><a href="">Judul Artikel</a></h5>
+                                          <p>
+                                              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad alias doloribus fugiat ipsum iste iure nobis quae soluta.
+                                          </p>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+
+                          <div class="section">
+                              <div class="white wd-round-box">
+                                  <div class="card-content articel-content">
+                                      <div class="col s12 m12">
+                                          <img src="pics/bear.jpg_large" alt="articel post" >
+                                      </div>
+                                      <div class="col s12 m12">
+                                          <h5><a href="">Judul Artikel</a></h5>
+                                          <p>
+                                              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad alias doloribus fugiat ipsum iste iure nobis quae soluta.
+                                          </p>
+                                      </div>
+                                  </div>
+                              </div>
+                          </div>
+
+
+                      </div>
+                  </div>
+              <!-- end main section-->
+
+              <!--  side section -->
+
+              <div class="col s12 m4">
+                  <div class="section">
+                      <h6 class="label-text">Terbaru dari lab</h6>
+                      <h6 class="label-text right"><a href="#" class="text-link">semua</a></h6>
+                  </div>
+                  <div class="lab-section" style="padding-top: 0px">
+
+                      <div class="lab-container">
+                          <div class="row">
+                              <div class="col s12 m12">
+                                  <div class="lab-title ">
+                                      <a href="#" class="teal-text">rahmadnirwandi </a>
+                                      <a href="#" class="right teal-text" style="margin-left: 2%"><i class="material-icons">more_vert</i></a>
+                                      <a href="#" class=" right teal-text"><i class="material-icons">bookmark_border</i></a>
+                                  </div>
+                                  <i class="lab-status">membuat</i>
+                                  <!--<div class="section">-->
+                                  <div class="lab-box ">
+                                      <a href="#" >Aplikasi kalkulator gratis berbayar  sama aja kapan</a>
+                                  </div>
+                                  <!--</div>-->
+                                  <i class="lab-status day-status">5 hari yang lalu</i>
+                                  <div class="section ">
+                                      <a href="#" class="btn-small btn-flat col s12 m12 blue-grey lighten-4 wd-rounded waves-effect waves-red">lihat</a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+
+                      <div class="lab-container">
+                          <div class="row">
+                              <div class="col s12 m12">
+                                  <div class="lab-title ">
+                                      <a href="#" class="teal-text">rahmadnirwandi </a>
+                                      <a href="#" class="right teal-text" style="margin-left: 2%"><i class="material-icons">more_vert</i></a>
+                                      <a href="#" class=" right teal-text"><i class="material-icons">bookmark_border</i></a>
+                                  </div>
+                                  <i class="lab-status">membuat</i>
+                                  <!--<div class="section">-->
+                                  <div class="lab-box ">
+                                      <a href="#" >Aplikasi kalkulator gratis berbayar  sama aja kapan</a>
+                                  </div>
+                                  <!--</div>-->
+                                  <i class="lab-status day-status">5 hari yang lalu</i>
+                                  <div class="section ">
+                                      <a href="#" class="btn-small btn-flat col s12 m12 blue-grey lighten-4 wd-rounded waves-effect waves-red">lihat</a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+
+                  </div>
+              </div>
+              </div>
+              <!-- end side section-->
+
+          </div>
+
+      </div>
 
 
   </body>
   <!-- inject js start -->
   <script type="text/javascript" src="js/jquery.js"></script>
   <script type="text/javascript" src="js/materialize.js"></script>
+  <script type="text/javascript" src="js/apps/init.js"></script>
   <!-- inject js end -->
 
 
