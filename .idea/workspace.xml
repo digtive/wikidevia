@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72d09e88-b0ad-47ff-a852-c0e6ec8507f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/color-customize/color-customizer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/fontawesome-all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/magnific-popup/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/owl-carousel/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/owl-carousel/owl.video.play.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/shortcodes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Flaticon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Flaticon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Flaticon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Flaticon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Flaticond41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fa-brands-400.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fa-brands-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fa-brands-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fa-brands-400d41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fa-regular-400.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fa-regular-400.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fa-regular-400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fa-regular-400d41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fa-solid-900.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fa-solid-900.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fa-solid-900.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fa-solid-900d41d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banner/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg/05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog-thumb/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog-thumb/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/blog-thumb/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/large/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/large/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/large/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/client/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/client/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/client/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/client/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/counter/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/counter/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/counter/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/counter/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/fav.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/feature/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/feature/04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/feature/06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/feature/07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/feature/08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/feature/09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mackbook/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pattern/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pattern/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pattern/04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pattern/07.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/svg/01.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/svg/02.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testimonial/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testimonial/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testimonial/03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/testimonial/04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnail/01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnail/02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbnail/03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/canvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/color-customize/color-customizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/confetti.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/contact-form/contact-form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/contact-form/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/countdown/jquery.countdown.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/counter/counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.appear.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/magnific-popup/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/menu/jquery.smartmenus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/owl-carousel/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/snap.svg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/step.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/theme-script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/wow.min.js" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="35" column="243" selection-start-line="35" selection-start-column="243" selection-end-line="35" selection-end-column="243" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/jquery.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wikidevia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wikidevia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wikidevia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wikidevia" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wikidevia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wikidevia" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/wikidevia/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72d09e88-b0ad-47ff-a852-c0e6ec8507f6" name="Default Changelist" comment="" />
+      <created>1557721934427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557721934427</updated>
+      <workItem from="1557721936007" duration="2905000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2905000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981412" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.4978479" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/fonts/fa-brands-400.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="88059" selection-start-line="1" selection-start-column="88059" selection-end-line="1" selection-end-column="88059" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="35" column="243" selection-start-line="35" selection-start-column="243" selection-end-line="35" selection-end-column="243" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
